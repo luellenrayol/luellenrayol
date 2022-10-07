@@ -30,4 +30,4 @@ Oii! eu sou a luellen 👋
   ##
   
   
-  ![Snake animation](https://github.com/luellenrayol/luellen/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luellenrayol/luellenrayol/blob/output/github-contribution-grid-snake.svg)
