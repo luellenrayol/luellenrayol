@@ -2,7 +2,7 @@
 
 Oii! eu sou a luellen 👋
 
--🎓Iniciante em front-end
+-🎓 front-end
 
 ##
 <div align="center">
