@@ -1,8 +1,8 @@
 
 
-Oii! eu sou a luellen 👋
+Oii!
 
--🎓 front-end
+-🎓 front-end e design ux/ui
 
 ##
 <div align="center">
